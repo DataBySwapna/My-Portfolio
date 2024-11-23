@@ -10,7 +10,4 @@
 DataBySwapna/DataBySwapna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-This is my analysis:
-![image](https://github.com/user-attachments/assets/fbf4509f-c641-483e-abbc-ca684ddcb443)
-
 
