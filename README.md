@@ -16,7 +16,7 @@ This is a repository for showcasing my skills, sharing projects, and tracking my
   - [Power BI](#power-bi-projects)
     - [Global Classic Collections Product Analysis](#project-name-global-classic-collections-product-analysis)
   - [Tableau](#tableau-projects)
-    - [How does a bike-share company navigate speedy success?](#how-does-a-bike-share-company-navigate-speedy-success)
+    - [How does a bike-share company navigate speedy success?](#project-name-how-does-a-bike-share-company-navigate-speedy-success)
     - [TBD](TBD)
   - [SQL](#sql-projects)
     - [TBD](TBD)
@@ -52,7 +52,7 @@ The project involved, loading, cleaning, and transforming the data, performing d
 
 ### <mark>Tableau Projects</mark>
 
-#### <mark>How does a bike-share company navigate speedy success?</mark>
+#### <mark>Projecr Name: How does a bike-share company navigate speedy success?</mark>
 **Code:** [TBD](TBD)
 
 **Goal:** Guide the future marketing program by answering "How do annual members and casual riders use Cyclistic bikes differently?".
