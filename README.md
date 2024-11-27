@@ -1,5 +1,5 @@
 # Swapna Macha - Data Analyst Portfolio
-## About
+## About Me
 Hi, I'm Swapna! I am an aspiring data analyst with a solid educational background in computer science and a recent certification from the Google Data Analytics Professional program. My interest in data analytics developed during my teaching role, where managing and analysing student data allowed me to see the potential of using data to drive meaningful decisions. 
 
 I am currently completing a 12-week intensive Digital Skills Bootcamp in Data with Just IT training. Through this program, I have gained practical experience in data cleaning, analysis, visualization, and ETL (Extract, Transform, Load) processes to transform raw data into actionable insights. I have completed projects utilizing tools such as Excel, SQL, Tableau, Power BI, and Python, working with diverse datasets.
@@ -11,7 +11,7 @@ My CV in TBD.
 This is a repository for showcasing my skills, sharing projects, and tracking my progress in Data Analytics and data Science topics.
 
 ## Table of Contents
-- [About](#about)
+- [About Me](#about-me)
 - [Portfolio Projects](#portfolio-projects)
   - [Power BI](#power-bi-projects)
     - [Global Classic Collections Product Analysis](#project-name-global-classic-collections-product-analysis)
