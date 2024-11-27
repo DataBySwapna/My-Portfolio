@@ -34,7 +34,7 @@ In this section I have listed data analytics projects briefly describing the tec
 ### <mark>Power BI Projects</mark>
 
 #### <mark>Global Classic Collections Product Analysis</mark>
-**Code:** [TBD](TBD)
+**Repository:** [Global Classic Collections Repository](TBD)
 
 **Goal:** To help the company analyse their data and to provide actionable insights that answers the following:
 1. Which offices are performing the best and worst?
@@ -42,7 +42,7 @@ In this section I have listed data analytics projects briefly describing the tec
 3. Why are certain product lines performing the best or worst?
 4. Predict future sales trends based on historical data?
 
-**Description:** The project focused on analyzing a dataset of a fictional company Global Classic Collections, a Premium retailer who offers high-end collectible products like model cars and airplanes, and operates in multiple regions around the globe. The company has seen some variances in sales across different offices and product lines. The management is interested in understanding Which offices are performing the best and worst, reasons for performance differences, prediction of future sales.
+**Description:** The project is focused on analyzing a dataset of a fictional company Global Classic Collections, a Premium retailer who offers high-end collectible products like model cars and airplanes, and operates in multiple regions around the globe. The company has seen some variances in sales across different offices and product lines. The management is interested in understanding Which offices are performing the best and worst, reasons for performance differences, prediction of future sales.
 
 The dataset included Customers, Products, Product Lines, Orders, Order Details, Payments, Employees, Offices and other relevant information. 
 
