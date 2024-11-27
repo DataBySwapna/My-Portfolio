@@ -1,3 +1,13 @@
+# **Global Classic Collections Product Analysis**
+## **This Repository contains:**
+
+**Data Source:** [Click Here for Data Source]()
+
+**Process followed:** [Power Query Data Extraction and Transformation](#power-query-data-extraction-and-transformation)
+
+**Power BI Analysis:** [Power BI Report File]()
+
+**Insights & Recommendations:** [Power Point Presentation]()
 
 
 ## **Power Query Data Extraction and Transformation**
@@ -21,8 +31,6 @@ Once the data was extracted, I performed the following transformations in Power 
 
 #### **2.1 Merging Tables:**
 Combined data from related tables to create a dataset for analysis.
-
 • Merged payments with customers:
-
 Merged the payments table with the customers table using customerNumber to get salesRepEmployeeNumber in the payments table.
 ![image1](https://github.com/DataBySwapna/My-Portfolio/blob/main/PowerBI/Images/Data_Transformation-1.png)
