@@ -14,10 +14,10 @@ This is a repository to showcase my skills, share projects and track my progress
 - [About](TBD)
 - [Portfolio Projects](TBD)
   - [Power BI](#power-bi-projects)
-    - [TBD](TBD)
+    - [Global Classic Collections Product Analysis](#global-classic-collections-product-analysis)
     - [TBD](TBD)
   - [Tableau](#tableau-projects)
-    - [TBD](TBD)
+    - [How does a bike-share company navigate speedy success?](#how-does-a-bike-share-company-navigate-speedy-success?)
     - [TBD](TBD)
   - [SQL](#sql-projects)
     - [TBD](TBD)
@@ -77,18 +77,27 @@ The project involved:
 
 ### Tableau Projects
 
-#### Project Name
+#### How does a bike-share company navigate speedy success?
 **Code:** [TBD](TBD)
 
-**Goal:** TBD.
+**Goal:** Guide the future marketing program by answering "How do annual members and casual riders use Cyclistic bikes differently?".
 
-**Description:** TBD.
+**Description:** The project focused on analyzing a dataset of a fictional company Cyclistic, a bike-share company in Chicago, who launched bike-share program that features more than 5,800 bicycles and 600 docking station. Cyclistic finance analysts have concluded that annual members are much more profitable than casual riders. The director of marketing has set a clear goal to design marketing strategies aimed at converting casual riders into annual members.
 
-**Skills:** data cleaning, data analysis, data visualization, TBD.
+For the purposes of this project, The 12 months of  Cyclistic’s historical trip, public data available by Motivate International Inc. under license has been used.
 
-**Technology:** TBD.
+The project involved:
+- Loading the data from SQL server
+- Cleaning the data to address Missing Data, Inconsistent Date Formats and Null or Zero Values.
+- Creating measures
+- Drawing Insights
 
-**Results:** TBD.
+**Skills:** data cleaning, data analysis, data visualization, summarising insights, PowerPoint
+
+**Technology:** Tableau, SQL.
+
+**Results:** Below are some of the visualisations and insights created as part of analysis. Please [click here] for full report
+![Tableau-Project1-Visualisation1]
 
 #### Project Name
 **Code:** [TBD](TBD)
