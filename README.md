@@ -31,9 +31,9 @@ This is a repository for showcasing my skills, sharing projects, and tracking my
 ## Portfolio Projects
 In this section I have listed data analytics projects briefly describing the technology stack used to solve cases.
 
-### Power BI Projects
+### <mark>Power BI Projects</mark>
 
-#### Global Classic Collections Product Analysis
+#### <mark>Global Classic Collections Product Analysis</mark>
 **Code:** [TBD](TBD)
 
 **Goal:** To help the company analyse their data and to provide actionable insights that answers the following:
@@ -75,9 +75,9 @@ The project involved:
 
 **Results:** TBD.
 
-### Tableau Projects
+### <mark>Tableau Projects</mark>
 
-#### How does a bike-share company navigate speedy success?
+#### <mark>How does a bike-share company navigate speedy success?</mark>
 **Code:** [TBD](TBD)
 
 **Goal:** Guide the future marketing program by answering "How do annual members and casual riders use Cyclistic bikes differently?".
