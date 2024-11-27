@@ -6,7 +6,7 @@
 | **Data Source**    | [Click Here for Data Source]()             |
 | **Process followed to transform data** | [Power Query Data Extraction and Transformation](#power-query-data-extraction-and-transformation) |
 | **Power BI Analysis** | [Power BI Report File (.pbix)]()                 |
-| **Insights & Recommendations** | [Power Point Presentation]()    |
+| **Insights & Recommendations** | [Power Point Presentation](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FDataBySwapna%2FMy-Portfolio%2Frefs%2Fheads%2Fmain%2FPowerBI%2FGlobal%2520Classic%2520Collections%2520Project%2FClassicModels-PowerBI-Project.pptx&wdOrigin=BROWSELINK)    |
 
 
 
