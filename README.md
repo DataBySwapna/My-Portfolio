@@ -11,7 +11,7 @@ My CV in TBD.
 This is a repository for showcasing my skills, sharing projects, and tracking my progress in Data Analytics and data Science topics.
 
 ## Table of Contents
-- [About](TBD)
+- [About](#about)
 - [Portfolio Projects](TBD)
   - [Power BI](#power-bi-projects)
     - [Global Classic Collections Product Analysis](#global-classic-collections-product-analysis)
