@@ -97,7 +97,8 @@ The project involved:
 **Technology:** Tableau, SQL.
 
 **Results:** Below are some of the visualisations and insights created as part of analysis. Please [click here] for full report
-![Tableau-Project1-Visualisation1]
+![Tableau-Project1-Visualisation1](https://github.com/DataBySwapna/My-Portfolio/blob/main/Tableau/Tableau-Project-1-Visualisation-1.png)
+![Tableau-Project1-Visualisation1]()
 
 #### Project Name
 **Code:** [TBD](TBD)
