@@ -62,7 +62,8 @@ The project involved:
 
 **Technology:** Power BI, SQL Server.
 
-**Results:** ![Dashboard]
+**Results:** Below is the Dashboard that summarises the insights. Please [click here] for full report
+![Dashboard](https://github.com/DataBySwapna/My-Portfolio/blob/main/PowerBI-Project-1-Dashboard.png)
 
 #### Project Name
 **Code:** [TBD](TBD)
