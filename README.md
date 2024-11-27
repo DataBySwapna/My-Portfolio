@@ -49,16 +49,13 @@ The dataset included Customers, Products, Product Lines, Orders, Order Details, 
 The project involved:
 - Loading the data from SQL server
 - Cleaning the data to address Missing Data, Inconsistent Date Formats, Duplicate Records, Irrelevant or Redundant Data and Null or Zero Values.
-- Transforming the data by merging tables, creating calculated fields, and grouping the data to provide insights on:
-  - Office performance based on revenue, orders, and customer engagement.
-  - Regional product popularity.
-  - Time-based revenue trends and forecasts
+- Transforming the data by merging tables, creating calculated fields, and grouping the data to provide insights.
 - Performing Descriptive Analysis to answer ""
 - Performing Diagnostic Analysis to answer ""
 - Performing Predictive Analysis to answer ""
 - Providing recommendations based on analysis
 
-**Skills:** data cleaning, data analysis, data visualization, Descriptive Analysis, Diagnostic Analysis, Predictive Analysis.
+**Skills:** data cleaning, data transformation, data analysis, data visualization, Descriptive Analysis, Diagnostic Analysis, Predictive Analysis, creating dashboard, PowerPoint
 
 **Technology:** Power BI, SQL Server.
 
