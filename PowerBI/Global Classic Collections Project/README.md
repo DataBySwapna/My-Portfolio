@@ -4,8 +4,8 @@
 |                     |                                             |
 |---------------------|---------------------------------------------|
 | **Data Source**    | [Click Here for Data Source]()             |
-| **Process followed** | [Power Query Data Extraction and Transformation](#power-query-data-extraction-and-transformation) |
-| **Power BI Analysis** | [Power BI Report File]()                 |
+| **Process followed to transform data** | [Power Query Data Extraction and Transformation](#power-query-data-extraction-and-transformation) |
+| **Power BI Analysis** | [Power BI Report File (.pbix)]()                 |
 | **Insights & Recommendations** | [Power Point Presentation]()    |
 
 
