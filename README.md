@@ -13,25 +13,27 @@ This is a repository to showcase my skills, share projects and track my progress
 ## Table of Contents
 - [About](TBD)
 - [Portfolio Projects](TBD)
-  - PowerBI
+  - [Power BI](#power-bi-projects)
     - [TBD](TBD)
     - [TBD](TBD)
-  - Tableau
+  - [Tableau](#tableau-projects)
     - [TBD](TBD)
     - [TBD](TBD)
-  - SQL
+  - [SQL](#sql-projects)
     - [TBD](TBD)
     - [TBD](TBD)
-  - Excel
+  - [Excel](#excel-projects)
     - [TBD](TBD)
     - [TBD](TBD)
-- [Education](TBD)  
-- [Certificates](TBD)
-- [Contact](TBD)
+- [Education](#education)  
+- [Certificates](#certificates)
+- [Contact](#contacts)
 ## Portfolio Projects
 In this section I have listed data analytics projects briefly describing the technology stack used to solve cases.
 
-### TBD
+### Power BI Projects
+
+#### Project Name
 **Code:** [TBD](TBD)
 
 **Goal:** TBD.
@@ -44,7 +46,7 @@ In this section I have listed data analytics projects briefly describing the tec
 
 **Results:** TBD.
 
-### TBD
+#### Project Name
 **Code:** [TBD](TBD)
 
 **Goal:** TBD.
@@ -57,7 +59,9 @@ In this section I have listed data analytics projects briefly describing the tec
 
 **Results:** TBD.
 
-### TBD
+### Tableau Projects
+
+#### Project Name
 **Code:** [TBD](TBD)
 
 **Goal:** TBD.
@@ -70,7 +74,7 @@ In this section I have listed data analytics projects briefly describing the tec
 
 **Results:** TBD.
 
-### TBD
+#### Project Name
 **Code:** [TBD](TBD)
 
 **Goal:** TBD.
@@ -83,7 +87,9 @@ In this section I have listed data analytics projects briefly describing the tec
 
 **Results:** TBD.
 
-### TBD
+### SQL Projects
+
+#### Project Name
 **Code:** [TBD](TBD)
 
 **Goal:** TBD.
@@ -96,7 +102,9 @@ In this section I have listed data analytics projects briefly describing the tec
 
 **Results:** TBD.
 
-### TBD
+### Excel Projects
+
+#### Project Name
 **Code:** [TBD](TBD)
 
 **Goal:** TBD.
