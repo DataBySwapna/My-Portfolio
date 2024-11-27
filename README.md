@@ -52,7 +52,7 @@ The project involved, loading, cleaning, and transforming the data, performing d
 
 ### <mark>Tableau Projects</mark>
 
-#### <mark>Projecr Name: How does a bike-share company navigate speedy success?</mark>
+#### <mark>Project Name: How does a bike-share company navigate speedy success?</mark>
 **Code:** [TBD](TBD)
 
 **Goal:** Guide the future marketing program by answering "How do annual members and casual riders use Cyclistic bikes differently?".
