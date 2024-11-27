@@ -8,7 +8,7 @@ I am determined to establish myself in the data analytics domain, combining my e
 
 My CV in TBD.
 
-This is a repository to showcase my skills, share projects and track my progress in Data Analytics / Data Science related topics.
+This is a repository for showcasing my skills, sharing projects, and tracking my progress in Data Analytics and data Science topics.
 
 ## Table of Contents
 - [About](TBD)
