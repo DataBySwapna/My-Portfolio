@@ -48,7 +48,7 @@ The project involved, loading, cleaning, and transforming the data, performing d
 
 **Technology:** Power BI, SQL Server.
 
-**Results:** Below is the Dashboard that summarises the insights. Please [click here](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FDataBySwapna%2FMy-Portfolio%2Frefs%2Fheads%2Fmain%2FPowerBI%2FClassicModels-PowerBI-Project.pptx&wdOrigin=BROWSELINK) for full report
+**Results:** Below is the Dashboard that summarises the insights. Please [click here](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FDataBySwapna%2FMy-Portfolio%2Frefs%2Fheads%2Fmain%2FPowerBI%2FGlobal%2520Classic%2520Collections%2520Project%2FClassicModels-PowerBI-Project.pptx&wdOrigin=BROWSELINK) for full report
 ![Dashboard](https://github.com/DataBySwapna/My-Portfolio/blob/main/PowerBI/PowerBI-Project-1-Dashboard.png)
 
 #### Project Name
