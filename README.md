@@ -15,7 +15,6 @@ This is a repository for showcasing my skills, sharing projects, and tracking my
 - [Portfolio Projects](#portfolio-projects)
   - [Power BI](#power-bi-projects)
     - [Global Classic Collections Product Analysis](#global-classic-collections-product-analysis)
-    - [TBD](TBD)
   - [Tableau](#tableau-projects)
     - [How does a bike-share company navigate speedy success?](#how-does-a-bike-share-company-navigate-speedy-success)
     - [TBD](TBD)
@@ -50,19 +49,6 @@ The project involved, loading, cleaning, and transforming the data, performing d
 
 **Results:** Below is the Dashboard that summarises the insights. Please [click here](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FDataBySwapna%2FMy-Portfolio%2Frefs%2Fheads%2Fmain%2FPowerBI%2FGlobal%2520Classic%2520Collections%2520Project%2FClassicModels-PowerBI-Project.pptx&wdOrigin=BROWSELINK) for full report
 ![Dashboard](https://github.com/DataBySwapna/My-Portfolio/blob/main/PowerBI/Global%20Classic%20Collections%20Project/PowerBI-Project-1-Dashboard.png)
-
-#### Project Name
-**Code:** [TBD](TBD)
-
-**Goal:** TBD.
-
-**Description:** TBD.
-
-**Skills:** data cleaning, data analysis, data visualization, TBD.
-
-**Technology:** TBD.
-
-**Results:** TBD.
 
 ### <mark>Tableau Projects</mark>
 
