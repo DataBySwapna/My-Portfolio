@@ -33,7 +33,7 @@ In this section I have listed data analytics projects briefly describing the tec
 ### <mark>Power BI Projects</mark>
 
 #### <mark>Global Classic Collections Product Analysis</mark>
-**Repository:** [Global Classic Collections Repository](TBD)
+**Repository:** [Global Classic Collections Repository](https://github.com/DataBySwapna/My-Portfolio/tree/main/PowerBI/Global%20Classic%20Collections%20Project)
 
 **Goal:** To help the company analyse their data and to provide actionable insights.
 
