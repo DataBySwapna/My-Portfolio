@@ -33,18 +33,36 @@ In this section I have listed data analytics projects briefly describing the tec
 
 ### Power BI Projects
 
-#### Project Name
+#### Global Classic Collections Product Analysis
 **Code:** [TBD](TBD)
 
-**Goal:** TBD.
+**Goal:** To help the company analyse their data and to provide actionable insights that answers the following:
+1. Which offices are performing the best and worst?
+2. Which product lines are contributing most to the business?
+3. Why are certain product lines performing the best or worst?
+4. Predict future sales trends based on historical data?
 
-**Description:** TBD.
+**Description:** The project focused on analyzing a dataset of a fictional company Global Classic Collections, a Premium retailer who offers high-end collectible products like model cars and airplanes, and operates in multiple regions around the globe. The company has seen some variances in sales across different offices and product lines. The management is interested in understanding Which offices are performing the best and worst, reasons for performance differences, prediction of future sales.
 
-**Skills:** data cleaning, data analysis, data visualization, TBD.
+The dataset included Customers, Products, Product Lines, Orders, Order Details, Payments, Employees, Offices and other relevant information. 
 
-**Technology:** TBD.
+The project involved:
+- Loading the data from SQL server
+- Cleaning the data to address Missing Data, Inconsistent Date Formats, Duplicate Records, Irrelevant or Redundant Data and Null or Zero Values.
+- Transforming the data by merging tables, creating calculated fields, and grouping the data to provide insights on:
+  - Office performance based on revenue, orders, and customer engagement.
+  - Regional product popularity.
+  - Time-based revenue trends and forecasts
+- Performing Descriptive Analysis to answer ""
+- Performing Diagnostic Analysis to answer ""
+- Performing Predictive Analysis to answer ""
+- Providing recommendations based on analysis
 
-**Results:** TBD.
+**Skills:** data cleaning, data analysis, data visualization, Descriptive Analysis, Diagnostic Analysis, Predictive Analysis.
+
+**Technology:** Power BI, SQL Server.
+
+**Results:** ![Dashboard]
 
 #### Project Name
 **Code:** [TBD](TBD)
