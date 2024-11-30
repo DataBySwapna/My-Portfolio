@@ -14,7 +14,7 @@ This is a repository for showcasing my skills, sharing projects, and tracking my
 - [About Me](#about-me)
 - [Portfolio Projects](#portfolio-projects)
   - [Power BI](#power-bi-projects)
-    - [Global Classic Collections Product Analysis](#project-name-global-classic-collections-product-analysis)
+    - [Global Classic Collections Product Analysis](https://github.com/DataBySwapna/My-Portfolio/tree/main/PowerBI/Global%20Classic%20Collections%20Project)
   - [Tableau](#tableau-projects)
     - [How does a bike-share company navigate speedy success?](#project-name-how-does-a-bike-share-company-navigate-speedy-success)
     - [TBD](TBD)
