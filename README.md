@@ -10,8 +10,7 @@ My CV in TBD.
 
 This is a repository for showcasing my skills, sharing projects, and tracking my progress in Data Analytics and data Science topics.
 
-## Table of Contents
-- [About Me](#about-me)
+## My Portfolio
 - [Portfolio Projects](#portfolio-projects)
   - [Power BI](#power-bi-projects)
     - [Global Classic Collections Product Analysis](https://github.com/DataBySwapna/My-Portfolio/tree/main/PowerBI/Global%20Classic%20Collections%20Project)
