@@ -22,7 +22,7 @@ This is a repository for showcasing my skills, sharing projects, and tracking my
     - [TBD](TBD)
     - [TBD](TBD)
   - [Excel](#excel-projects)
-    - [TBD](TBD)
+    - [Bike-Sales-Analysis-and-Visualization](https://github.com/DataBySwapna/Bike-Sales-Analysis-and-Visualization/blob/main/README.md)
     - [TBD](TBD)
 - [Education](#education)  
 - [Certificates](#certificates)
