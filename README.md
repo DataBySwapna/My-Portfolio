@@ -28,17 +28,7 @@ This is a repository for showcasing my skills, sharing projects, and tracking my
 - [Contact](#contacts)
 
 ## Education
-University, Place: 
-Master of Science - MS, Data Science,
-Dec 2022 - Dec 2024
-
-University, Place:
-Bachelor's degree, Biochemistry and Molecular Biology,
-2019 - 2022
-
-Pre University School:
-Associate's degree, Science and Mathematics,
-2017 - 2019
+TBD
 
 ## Certificates
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/AHSCGX423EA4) (July 2024) (Coursera - Google)
